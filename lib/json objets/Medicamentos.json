@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "623162c7e4ab42cd429b55a9"
+  },
+  "nombre": "amoxicilina",
+  "clasificacion": "antibiotico",
+  "administracion": "bucal",
+  "stock": "200"
+},{
+  "_id": {
+    "$oid": "62323c6b47c4d6fc8411d981"
+  },
+  "nombre": "ibuprofeno",
+  "clasificacion": "antinflamatorio",
+  "administracion": "oral",
+  "stock": "300"
+},{
+  "_id": {
+    "$oid": "62323c6b47c4d6fc8411d982"
+  },
+  "nombre": "acetaminofen",
+  "clasificacion": "analgesico",
+  "administracion": "oral",
+  "stock": "120"
+}]

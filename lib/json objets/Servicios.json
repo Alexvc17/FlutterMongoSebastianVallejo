@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "62316025e4ab42cd429b55a8"
+  },
+  "nivel": "1",
+  "servicio": "ortodoncia",
+  "sala": "101"
+},{
+  "_id": {
+    "$oid": "62323e0c47c4d6fc8411d99a"
+  },
+  "nivel": "2",
+  "servicio": "Protesis",
+  "sala": "105"
+},{
+  "_id": {
+    "$oid": "62323e0c47c4d6fc8411d99b"
+  },
+  "nivel": "3",
+  "servicio": "Caries",
+  "sala": "107"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "623159eae4ab42cd429b55a6"
+  },
+  "nombre": "Mario",
+  "apellido": "Torres",
+  "edad": "38",
+  "especialidad": "ortodoncia"
+},{
+  "_id": {
+    "$oid": "62323b7847c4d6fc8411d97c"
+  },
+  "nombre": "Sandra",
+  "apellido": "Muñoz",
+  "edad": "52",
+  "especialidad": "Protesis"
+},{
+  "_id": {
+    "$oid": "62323b7847c4d6fc8411d97d"
+  },
+  "nombre": "Jose",
+  "apellido": "Garcia",
+  "edad": "31",
+  "especialidad": "Caries"
+}]

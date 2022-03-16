@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62316a0ae4ab42cd429b55ac"
+  },
+  "tratamiento": "ortodoncia",
+  "observacion": "Se realizaran movimientos que desplazaran los dientes"
+},{
+  "_id": {
+    "$oid": "62323e7847c4d6fc8411d99f"
+  },
+  "tratamiento": "Protesis",
+  "observacion": "Se restaurara la anatomia de los dientes"
+},{
+  "_id": {
+    "$oid": "62323e7847c4d6fc8411d9a0"
+  },
+  "tratamiento": "Caries",
+  "observacion": "Se conserva el diente y el tejido sano"
+}]

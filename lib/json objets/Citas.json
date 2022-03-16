@@ -1,0 +1,28 @@
+[{
+    "_id": {
+        "$oid": "62323a8c47c4d6fc8411d971"
+    },
+    "nombre": "Mario Torres",
+    "tratamiento": "ortodoncia",
+    "fecha": "04/05/2022",
+    "hora": "2:00pm",
+    "estado": "vigente"
+}, {
+    "_id": {
+        "$oid": "62323a8c47c4d6fc8411d972"
+    },
+    "nombre": "Sandra Muñoz",
+    "tratamiento": "Protesis",
+    "fecha": "11/06/2022",
+    "hora": "3:00pm",
+    "estado": "vigente"
+}, {
+    "_id": {
+        "$oid": "62323a8c47c4d6fc8411d973"
+    },
+    "nombre": "Jose Garcia",
+    "tratamiento": "Caries",
+    "fecha": "06/08/2022",
+    "hora": "8:30am",
+    "estado": "vigente"
+}]

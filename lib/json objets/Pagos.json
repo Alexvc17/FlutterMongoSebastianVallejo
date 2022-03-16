@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "623167fce4ab42cd429b55ab"
+  },
+  "tratamiento": "ortodoncia",
+  "fechapago": "08/01/2022",
+  "medio_pago": "tarjeta",
+  "valor": "120000"
+},{
+  "_id": {
+    "$oid": "62323da347c4d6fc8411d98b"
+  },
+  "tratamiento": "Protesis",
+  "fechapago": "10/06/2022",
+  "medio_pago": "tarjeta",
+  "valor": "300000"
+},{
+  "_id": {
+    "$oid": "62323da347c4d6fc8411d98c"
+  },
+  "tratamiento": "Caries",
+  "fechapago": "05/08/2022",
+  "medio_pago": "tarjeta",
+  "valor": "80000"
+}]
